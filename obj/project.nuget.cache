@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ljkgtG9eD20ksBPgljtjtjEmJMNDoEbZZTcwOWDPTuGPoDkx6y8L4EBWIMv+RiFE3OYVQG9DkPqUglRyqpL5Gg==",
+  "dgSpecHash": "rqIwgLhzGUC5tXr7/DJO6CuKcSn83NJpQhwwPbxT2RV7XcpxgAR4D+tzpjAL6Wom3lQO3pdIPpAqlYhgySg1Jg==",
   "success": true,
-  "projectFilePath": "/home/ahmedberuny/beruny/dotnet/MyBlogs/MyBlogs.csproj",
+  "projectFilePath": "/home/ahmedberuny/beruny/test/MyBlogs/MyBlogs.csproj",
   "expectedPackageFiles": [
     "/home/ahmedberuny/.nuget/packages/google.protobuf/3.21.9/google.protobuf.3.21.9.nupkg.sha512",
     "/home/ahmedberuny/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

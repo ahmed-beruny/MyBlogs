@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmedberuny/beruny/dotnet/MyBlogs/MyBlogs.csproj": {}
+    "/home/ahmedberuny/beruny/test/MyBlogs/MyBlogs.csproj": {}
   },
   "projects": {
-    "/home/ahmedberuny/beruny/dotnet/MyBlogs/MyBlogs.csproj": {
+    "/home/ahmedberuny/beruny/test/MyBlogs/MyBlogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmedberuny/beruny/dotnet/MyBlogs/MyBlogs.csproj",
+        "projectUniqueName": "/home/ahmedberuny/beruny/test/MyBlogs/MyBlogs.csproj",
         "projectName": "MyBlogs",
-        "projectPath": "/home/ahmedberuny/beruny/dotnet/MyBlogs/MyBlogs.csproj",
+        "projectPath": "/home/ahmedberuny/beruny/test/MyBlogs/MyBlogs.csproj",
         "packagesPath": "/home/ahmedberuny/.nuget/packages/",
-        "outputPath": "/home/ahmedberuny/beruny/dotnet/MyBlogs/obj/",
+        "outputPath": "/home/ahmedberuny/beruny/test/MyBlogs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ahmedberuny/.nuget/NuGet/NuGet.Config"
